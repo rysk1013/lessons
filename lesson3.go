@@ -67,7 +67,7 @@ func main() {
 	}
 	fmt.Println(c3)
 
-	//map
+	//map(Rubyで言うHashと同じ)
 	m := map[string]int{"apple": 100, "banana": 200}
 	fmt.Println(m)
 	fmt.Println(m["apple"])
